@@ -23,6 +23,6 @@ class Program
         {
             Console.WriteLine("il numero " + numero + "è dispari");
         }
-        Console.WriteLine("Premi un tasto per ");
+        Console.WriteLine("Premi un tasto per uscire");
     }
 }
