@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Pari o Dispari");
