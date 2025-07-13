@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Pari o Dispari");
+﻿Console.WriteLine("Pari o Disparii");
